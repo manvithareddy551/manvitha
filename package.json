@@ -1,0 +1,15 @@
+{
+  "name":"BMI calculator",
+  "version":"1.0.0",
+  "description":"my first node",
+  "main":"server.js",
+  "scrpits":{
+    "tests":"echo\"Error:no test specified\"&& exit 1",
+    "start":"node server.js"
+  },
+  "author": "manvitha gollapalli",
+  "license":"ISC",
+  "dependencies":{
+    "express":"^4.17.1"
+  }
+}
